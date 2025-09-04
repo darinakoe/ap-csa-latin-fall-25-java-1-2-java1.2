@@ -8,7 +8,7 @@ public class HW54b {
     int sum = num1 + num2 + num3 + num4;
     double ave = sum / 4.0;
 
-    System.out.println(sum);
-    System.out.println(ave);
+    System.out.println("The sum of the numbers is: " + sum);
+    System.out.println("The average of the numbers is: " + ave);
   }
 }
