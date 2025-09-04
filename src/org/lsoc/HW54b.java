@@ -6,7 +6,7 @@ public class HW54b {
     int num4 = 562;
 
     int sum = num1 + num2 + num3 + num4;
-    int ave = sum / 4;
+    double ave = sum / 4.0;
 
     System.out.println(sum);
     System.out.println(ave);
