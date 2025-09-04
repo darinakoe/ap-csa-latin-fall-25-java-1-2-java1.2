@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HW52a",
+            "request": "launch",
+            "mainClass": "HW52a",
+            "projectName": "ap-csa-latin-fall-25-java-1-2-java1.2_d005fcaa"
+        },
+        {
+            "type": "java",
             "name": "IdentifyErrors",
             "request": "launch",
             "mainClass": "IdentifyErrors",
